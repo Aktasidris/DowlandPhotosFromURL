@@ -8,7 +8,8 @@ This Project Dowland Photos from any url
 2. dowland_images(downland_path,url,file_name):
    - (save_location,target_url,save_format)
    - Downloading all images from a website url and css selector for all images
+   
 '''bash
-git clone git url
+git clone [git url](https://github.com/Aktasidris/Download-Photos-From-URL.git)
 cd Download-Photos-From-URL
 '''
