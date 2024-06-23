@@ -9,7 +9,7 @@ This Project Dowland Photos from any url
    - (save_location,target_url,save_format)
    - Downloading all images from a website url and css selector for all images
    
-'''
+'''bash
    git clone https://github.com/Aktasidris/Download-Photos-From-URL.git
    cd Download-Photos-From-URL
 '''
